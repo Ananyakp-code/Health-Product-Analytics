@@ -94,8 +94,8 @@ The analysis answers the following product questions:
 
 ## Tools Used
 - SQL (MySQL)
-- Excel (data exploration & pivot tables)6
-
+- Excel (data exploration & pivot tables)
+  
 ---
 
 ## Project Structure
